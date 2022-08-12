@@ -17,7 +17,7 @@ banner = '''
 Telegram => t.me/termuxqew                                                                           
 '''
 
-chars = 'abcdefghijklnopqrstuvwxyz12345678901234567890QWERTYUIOPASDFGHJKLZXCVBNM'
+chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz'
 number = int(1)
 length = int(10)
 
